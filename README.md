@@ -40,11 +40,10 @@ A list of commonly used resources that we find helpful are listed in the acknowl
 
 ### Built With
 
-Resoures that used in this project are :
-* [w3schools](www.w3schools.com/cs)
-* 
-
-
+Some of the Resoures that we are using in this project are :
+ - [w3schools](www.w3schools.com/cs)
+ - https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-6.0&tabs=visual-studio
+ - https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -58,7 +57,7 @@ You can get a local copy up and running follow these simple example steps.
    git clone https://github.com/Abreham-13/Social_Net
    ```
 2. open the project VS And Install below listed dependency in nuget packege
-    - microsoft.entityframeworkcore
+   - microsoft.entityframeworkcore
    - microsoft.entityframeworkcore.design
    - microsoft.aspnetcore.identity.entityframeworkcore
    - npgsql.entityframeworkcore.postgresql
