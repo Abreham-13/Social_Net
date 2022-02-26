@@ -57,8 +57,15 @@ You can get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/Abreham-13/Social_Net
    ```
-2. open the project VS And run 
+2. open the project VS And Install below listed dependency in nuget packege
+    - microsoft.entityframeworkcore
+   - microsoft.entityframeworkcore.design
+   - microsoft.aspnetcore.identity.entityframeworkcore
+   - npgsql.entityframeworkcore.postgresql
+   - microsoft.entityframeworkcore.tools
+   - microsoft.visualstudio.web.codegeneration.design
 
+3. then run 
 
 
 <!-- USAGE EXAMPLES -->
@@ -89,7 +96,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
     Abreham Gessesse
 
 
-Project Link: [https://github.com/Abreham-13/startapp_calculator)
+Project Link: [https://github.com/Abreham-13/Social_Net)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
