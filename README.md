@@ -50,7 +50,7 @@ Some of the Resoures that we are using in this project are :
 
 You can get a local copy up and running follow these simple example steps.
 
-### Instaction
+### Instraction
 
 1. Clone the repo
    ```sh
